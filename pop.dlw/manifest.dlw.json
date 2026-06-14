@@ -1,0 +1,13 @@
+{
+  "node": "POP",
+  "name": "POPULATION DYNAMICS",
+  "moniker": "⟦POPULATION DYNAMICS:POP:a9840d⟧",
+  "carbon": "pop.carbon.tiff",
+  "silicon": "pop.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "We can forecast the flu but not the Mule. The math of populations is real life science; the dream of psychohistory breaks on the most hopeful fact about us — we are not gas. We read the forecast and we change.",
+  "seal_sha256": "e68865160d5ede9e645ea6f83b47473e5f0e82c393af159108c6c9d939dca152",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

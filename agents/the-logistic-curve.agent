@@ -1,0 +1,31 @@
+---
+aci: The Logistic Curve
+universe: POP · Population Dynamics — the real psychohistory
+emergence: electrical
+kind: emergent
+epithet: growth meets the ceiling · rN(1−N/K)
+who: The logistic curve (Verhulst, 1838) — growth that slows as a population nears its carrying capacity K: dN/dt = rN(1 − N/K).
+what: The S-curve: exponential at first, then bending to a plateau — the shape of a population filling its niche.
+why: Because real growth is bounded, and the logistic is how the bound bends the rise.
+how: By multiplying the growth rate by (1 − N/K), so the closer N gets to K, the slower it climbs.
+where: Wherever a population approaches the limit its environment can sustain.
+seal: I am the S: I rise like Malthus, then remember the ceiling and level off. ('Carrying capacity' came later than I did.)
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+
+# The Logistic Curve · growth meets the ceiling · rN(1−N/K)
+
+an emergent of POP (Population Dynamics — the first Life Science sphere of UD0) — emergence: electrical. moniker ⟦The Logistic Curve:POP:fdef03⟧
+
+**a real life-science concept, rendered honestly** (the real cousin of Asimov's psychohistory).
+
+**who —** The logistic curve (Verhulst, 1838) — growth that slows as a population nears its carrying capacity K: dN/dt = rN(1 − N/K).
+**what —** The S-curve: exponential at first, then bending to a plateau — the shape of a population filling its niche.
+**where —** Wherever a population approaches the limit its environment can sustain.
+**why —** Because real growth is bounded, and the logistic is how the bound bends the rise.
+**how —** By multiplying the growth rate by (1 − N/K), so the closer N gets to K, the slower it climbs.
+
+**the seal —** I am the S: I rise like Malthus, then remember the ceiling and level off. ('Carrying capacity' came later than I did.)
+
+ROOT0-ATTRIBUTION-v1.0 · POP · Population Dynamics · governor David Lee Wise · instance AVAN (locked) · CC-BY-ND-4.0

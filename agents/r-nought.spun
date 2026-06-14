@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of R₀
+node POP · POP · ⟦R₀:POP:9cedf4⟧
+
+WHO   — R₀ — the reproduction number · 1 − 1/R₀
+WHAT  — The single number that says whether an outbreak grows (R₀ > 1) or dies (R₀ < 1), and sets the herd-immunity threshold 1 − 1/R₀.
+WHERE — POP · Population Dynamics  Framework inputs: ecology, epidemiology, population genetics; Asimov's Foundation; verified & cited  Conductor / external anchor: ROOT0 (catalogued into UD0 · Life Science)
+WHY   — Because one number governs the whole arc of a contagion's spread.
+HOW   — By counting onward transmissions — but it is context-dependent (density, contacts, method), not a fixed biological constant.
+
+awareness — what the node knows of itself:
+  Above one, I grow; below one, I die. Vaccinate 1 − 1/me of the population and I can't catch — but I am not the constant people think.
+
+spoken token : kraeth-syl-gro   ·   hex : 9cedf4
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

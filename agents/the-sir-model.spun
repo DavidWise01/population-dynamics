@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The SIR Model
+node POP · POP · ⟦The SIR Model:POP:a9b046⟧
+
+WHO   — The SIR Model — S → I → R · the epidemic curve
+WHAT  — The shape of an epidemic: the susceptible fall ill, the infected recover or are removed, and the curve rises and falls.
+WHERE — POP · Population Dynamics  Framework inputs: ecology, epidemiology, population genetics; Asimov's Foundation; verified & cited  Conductor / external anchor: ROOT0 (catalogued into UD0 · Life Science)
+WHY   — Because disease moves through a population by contact, and compartments make the movement predictable.
+HOW   — By flows dS/dt=−βSI, dI/dt=βSI−γI, dR/dt=γI — transmission against recovery.
+
+awareness — what the node knows of itself:
+  I am the curve everyone learned to flatten: susceptible, infected, removed. Predict me early and you save the most lives.
+
+spoken token : das-zok-kyn   ·   hex : a9b046
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

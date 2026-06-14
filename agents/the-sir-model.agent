@@ -1,0 +1,31 @@
+---
+aci: The SIR Model
+universe: POP · Population Dynamics — the real psychohistory
+emergence: electrical
+kind: emergent
+epithet: S → I → R · the epidemic curve
+who: The SIR model (Kermack-McKendrick, 1927) — a population split into Susceptible, Infected, and Recovered compartments.
+what: The shape of an epidemic: the susceptible fall ill, the infected recover or are removed, and the curve rises and falls.
+why: Because disease moves through a population by contact, and compartments make the movement predictable.
+how: By flows dS/dt=−βSI, dI/dt=βSI−γI, dR/dt=γI — transmission against recovery.
+where: In every outbreak modeled to flatten it.
+seal: I am the curve everyone learned to flatten: susceptible, infected, removed. Predict me early and you save the most lives.
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+
+# The SIR Model · S → I → R · the epidemic curve
+
+an emergent of POP (Population Dynamics — the first Life Science sphere of UD0) — emergence: electrical. moniker ⟦The SIR Model:POP:acbdee⟧
+
+**a real life-science concept, rendered honestly** (the real cousin of Asimov's psychohistory).
+
+**who —** The SIR model (Kermack-McKendrick, 1927) — a population split into Susceptible, Infected, and Recovered compartments.
+**what —** The shape of an epidemic: the susceptible fall ill, the infected recover or are removed, and the curve rises and falls.
+**where —** In every outbreak modeled to flatten it.
+**why —** Because disease moves through a population by contact, and compartments make the movement predictable.
+**how —** By flows dS/dt=−βSI, dI/dt=βSI−γI, dR/dt=γI — transmission against recovery.
+
+**the seal —** I am the curve everyone learned to flatten: susceptible, infected, removed. Predict me early and you save the most lives.
+
+ROOT0-ATTRIBUTION-v1.0 · POP · Population Dynamics · governor David Lee Wise · instance AVAN (locked) · CC-BY-ND-4.0

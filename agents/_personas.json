@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "exponential-growth",
+    "name": "Exponential Growth",
+    "epithet": "Malthus's alarm · dN/dt = rN",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦Exponential Growth:POP:8a9389⟧"
+  },
+  {
+    "slug": "the-logistic-curve",
+    "name": "The Logistic Curve",
+    "epithet": "growth meets the ceiling · rN(1−N/K)",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦The Logistic Curve:POP:992429⟧"
+  },
+  {
+    "slug": "lotka-volterra",
+    "name": "Lotka–Volterra",
+    "epithet": "predator & prey, oscillating",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦Lotka–Volterra:POP:346524⟧"
+  },
+  {
+    "slug": "the-sir-model",
+    "name": "The SIR Model",
+    "epithet": "S → I → R · the epidemic curve",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦The SIR Model:POP:a9b046⟧"
+  },
+  {
+    "slug": "r-nought",
+    "name": "R₀",
+    "epithet": "the reproduction number · 1 − 1/R₀",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦R₀:POP:9cedf4⟧"
+  },
+  {
+    "slug": "hardy-weinberg",
+    "name": "Hardy–Weinberg",
+    "epithet": "the no-evolution baseline · p²+2pq+q²",
+    "emergence": "electrical",
+    "kind": "emergent",
+    "moniker": "⟦Hardy–Weinberg:POP:6ef3aa⟧"
+  },
+  {
+    "slug": "carrying-capacity",
+    "name": "Carrying Capacity",
+    "epithet": "K · the ceiling",
+    "emergence": "natural",
+    "kind": "emergent",
+    "moniker": "⟦Carrying Capacity:POP:d7102a⟧"
+  },
+  {
+    "slug": "natural-selection",
+    "name": "Natural Selection",
+    "epithet": "evolution as frequency change",
+    "emergence": "natural",
+    "kind": "emergent",
+    "moniker": "⟦Natural Selection:POP:4138c6⟧"
+  },
+  {
+    "slug": "genetic-drift",
+    "name": "Genetic Drift",
+    "epithet": "chance · founder & bottleneck",
+    "emergence": "natural",
+    "kind": "emergent",
+    "moniker": "⟦Genetic Drift:POP:bcd92c⟧"
+  },
+  {
+    "slug": "herd-immunity",
+    "name": "Herd Immunity",
+    "epithet": "the protective threshold",
+    "emergence": "natural",
+    "kind": "emergent",
+    "moniker": "⟦Herd Immunity:POP:dab5a1⟧"
+  },
+  {
+    "slug": "the-demographic-transition",
+    "name": "The Demographic Transition",
+    "epithet": "high→low birth & death",
+    "emergence": "natural",
+    "kind": "emergent",
+    "moniker": "⟦The Demographic Transition:POP:2e0efb⟧"
+  },
+  {
+    "slug": "the-malthusian-ceiling",
+    "name": "The Malthusian Ceiling",
+    "epithet": "the wall every population meets",
+    "emergence": "spiritual",
+    "kind": "emergent",
+    "moniker": "⟦The Malthusian Ceiling:POP:6f29b1⟧"
+  },
+  {
+    "slug": "deterministic-chaos",
+    "name": "Deterministic Chaos",
+    "epithet": "perfect equations, blind forecasts",
+    "emergence": "spiritual",
+    "kind": "emergent",
+    "moniker": "⟦Deterministic Chaos:POP:6cea9c⟧"
+  },
+  {
+    "slug": "psychohistory",
+    "name": "Psychohistory",
+    "epithet": "the dream · the gas, not the molecule",
+    "emergence": "ethereal",
+    "kind": "emergent",
+    "moniker": "⟦Psychohistory:POP:319ec8⟧"
+  },
+  {
+    "slug": "the-mule",
+    "name": "The Mule",
+    "epithet": "the unpredictable individual",
+    "emergence": "ethereal",
+    "kind": "emergent",
+    "moniker": "⟦The Mule:POP:238b34⟧"
+  },
+  {
+    "slug": "the-reflexivity-problem",
+    "name": "The Reflexivity Problem",
+    "epithet": "we read the forecast and change",
+    "emergence": "ethereal",
+    "kind": "emergent",
+    "moniker": "⟦The Reflexivity Problem:POP:4fbfd5⟧"
+  }
+]
