@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 798
+slug  : population-dynamics
+seal  : e68865160d5ede9e645ea6f83b47473e5f0e82c393af159108c6c9d939dca152
+prev  : 9b89be4e2a4e86a7725bf46203c860051c66f2cce6811daa9742e56142a639cb
+link  : cf77fd40b9ea1f25a39c608f32d51fa5a298e60cef4fd17333dca506620c21e3
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
